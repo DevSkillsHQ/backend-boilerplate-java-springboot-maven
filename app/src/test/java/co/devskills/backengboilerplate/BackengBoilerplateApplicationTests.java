@@ -1,10 +1,10 @@
-package co.devskills.app;
+package co.devskills.backengboilerplate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AppApplicationTests {
+class BackengBoilerplateApplicationTests {
 
 	@Test
 	void contextLoads() {
